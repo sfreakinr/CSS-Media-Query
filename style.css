@@ -20,7 +20,7 @@ main {
 }
 
 .text-block {
-    border: 1px solid #ddd;
+    border: 1px solid #ddd; 
     padding: 1em;
     background-color: #f4f4f4;
 }
